@@ -1,100 +1,111 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hello---my-name-is-amr-welcome-to-my-github-profile-" class="anchor" aria-hidden="true" tabindex="-1" href="#hello---my-name-is-amr-welcome-to-my-github-profile-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hello! 👋  My Name is Ahmed, Welcome To My Github Profile 💖</h1>
-    <br>
-    <br>
-    <p dir="auto">
-    <animated-image data-catalyst="" style="float: right; width: 380px;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink">
-    <img align="right" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" height="280" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-    </a>
-    <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-    <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
-    <span data-target="animated-image.imageContainer">
-    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="380" height="280"></canvas></span></a>
-    <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coder GIF"hidden=""></button>
-    <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-    <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Coder GIF">
-    <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-    </path></svg>
-    <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-    <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-    </svg>
-    </button>
-    <a data-target="animated-image.openButton" aria-label="Open Coder GIF in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
-    <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-    <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-    </svg>
-    </a>
-    </span>
-    </span>
-    </animated-image>
-    </p>
-    <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🚀 About Me</h2> 
-    <h3 dir="auto"><a id="user-content--im-amr-elsayed-from-egypt-im-a-front-end-developer-i-really-enjoy-learning-programming-languages-and-frameworks--i-also-enjoy-implementing-of-designs-for-this-moment-im-junior-web-developer-and-learning-increasingly-" class="anchor" aria-hidden="true" tabindex="-1" href="#-im-amr-elsayed-from-egypt-im-a-front-end-developer-i-really-enjoy-learning-programming-languages-and-frameworks--i-also-enjoy-implementing-of-designs-for-this-moment-im-junior-web-developer-and-learning-increasingly-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> I'm Ahmed Sabry from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h3>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Languages Programming :</h2>
-    <p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"><img  alt="HTML5" src="https://img.shields.io/badge/-HTML%205-%23E44D27?style=plastic&amp;logo=html5&amp;logoColor=ffffff" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333">	<img src="https://img.shields.io/badge/CSS%203%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5041f62f316670cb97bffd4f710a36310f2da534ea76481d3e50a33ef4666827/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d426f6f747374726170"><img src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374">
-        <img src="https://img.shields.io/badge/React.JS-%2361DAFB.svg?style=plastic&amp;logo=React&amp;logoColor=black" style="max-width: 100%;"></a>
-    <a href="#" rel="noopener noreferrer nofollow"> 
-    <img alt="C++" src="https://camo.githubusercontent.com/0b0c601683286b233d9bfc447aff0ce056932d9fa771f965f1869e4a3bc5dc54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2532302d2532333030353939432e7376673f7374796c653d706c6173746963266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://www.cprogramming.com/" rel="nofollow"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img alt="Python" src="https://camo.githubusercontent.com/3bded904a0ba3f43805cf0e1bbea466a8f942158271015693d2e3f97db0d2775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da1d99b5cb690cd29ab2251899dfc309f47e7c0585a5fda944a92cdbda337782/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f74696f6e2d6666663f7374796c653d666c61742d737175617265266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d303030"><img src="https://img.shields.io/badge/Node.Js-%230F9D58.svg?style=plastic&amp;logo=Node.Js&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#" rel="noopener noreferrer nofollow"> 
-    <img src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?&style=plastic&logo=microsoft%20sql%20server&logoColor=white">
-    </a>
-    </p>
-    <h2 dir="auto"><a id="user-content-im-currently-learning" class="anchor" aria-hidden="true" tabindex="-1" href="#im-currently-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📌 I’m currently learning </h2>
-    <p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow" >
-    <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" >
-    <img src="https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=plastic&logo=redux&logoColor=white"/>
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=plastic" style="max-width: 100%;"/></a>
-    <a href="#" rel="noopener noreferrer nofollow"> 
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white"/>
-    </a>
-    <a href="#" rel="noopener noreferrer nofollow"> 
-        <img src ="https://img.shields.io/badge/Firebase-%23FFFC00.svg?&style=plastic&logo=firebase&logoColor=white"/>
-    </a>
-    </p>
-    <h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠️ Software & Tools  :</h2>
-    <p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666"><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&amp;logo=Github" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe017e863574a253b32b43c18a9c5700c7b9946fe76585345148c658cb8d090d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da1d99b5cb690cd29ab2251899dfc309f47e7c0585a5fda944a92cdbda337782/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f74696f6e2d6666663f7374796c653d666c61742d737175617265266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d303030"><img alt="Google Sheets" src="https://camo.githubusercontent.com/5e4b5ce2f6b4006ef5b20bf639714a7e398973fd10dd4872cb10b2e7e6ff87ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532305368656574732532302d2532333334413835332e7376673f7374796c653d706c6173746963266c6f676f3d676f6f676c65253230736865657473266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&amp;logo=google%20sheets&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da1d99b5cb690cd29ab2251899dfc309f47e7c0585a5fda944a92cdbda337782/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f74696f6e2d6666663f7374796c653d666c61742d737175617265266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d303030"><img alt="Stack Overflow" src="https://camo.githubusercontent.com/a5b1897664cb5caac8e1c4364794e84a5678250b2ba7e82637e7234442e0675b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f7374796c653d706c6173746963266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da1d99b5cb690cd29ab2251899dfc309f47e7c0585a5fda944a92cdbda337782/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e6f74696f6e2d6666663f7374796c653d666c61742d737175617265266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d303030"><img src="https://img.shields.io/badge/Geeksforgeeks-%230F9D58.svg?style=plastic&amp;logo=geeksforgeeks&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" >
-        <img src="https://img.shields.io/badge/-Notion-fff?style=plastic&amp;logo=notion&amp;logoColor=000" style="max-width: 100%;">
-    </a>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<h1 align="center" dir="auto"><a id="user-content-hello---my-name-is-amr-welcome-to-my-github-profile-" class="anchor" aria-hidden="true" tabindex="-1" href="#hello---my-name-is-amr-welcome-to-my-github-profile-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hello! 👋  My Name is Ahmed Sabry</h1>
+<h1 align="center" dir="auto">
+<span>💖</span>
+<a  rel="noopener noreferrer nofollow"> 
+<img src ="https://img.shields.io/badge/-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white"/>
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://img.shields.io/badge/-%23404d59.svg?&style=plastic&logo=express&logoColor=white" style="max-width: 100%;"/>
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://img.shields.io/badge/-%2361DAFB.svg?style=plastic&amp;logo=React&amp;logoColor=black" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://img.shields.io/badge/-%230F9D58.svg?style=plastic&amp;logo=Node.Js&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<span>💖</span>
+</h1>
+<br>
+<br>
+<p dir="auto">
+<animated-image data-catalyst="" style="float: right; width: 380px;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink">
+<img align="right" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" height="280" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+<span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+<a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
+<span data-target="animated-image.imageContainer">
+<canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="380" height="280"></canvas></span></a>
+<button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coder GIF"hidden=""></button>
+<span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+<button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Coder GIF">
+<svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+</path></svg>
+<svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="2" width="3" height="12" rx="1"></rect><rect x="9" y="2" width="3" height="12" rx="1"></rect>
+</svg>
+</button>
+<a data-target="animated-image.openButton" aria-label="Open Coder GIF in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" target="_blank">
+<svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+</svg>
+</a>
+</span>
+</span>
+</animated-image>
 </p>
-    <h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🖥️ Operating Systems  :</h2>
-    <p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5d0c3ab3bb7d56038dcfa868b056ed7b2bd119579bd4cf4d1123244adc74bca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666"><img src="https://camo.githubusercontent.com/415b842ad861ca2adb0915c100c67797697d095cf9ed7f1137dfe6f63de74f32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d706c6173746963266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=plastic&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" >
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
-    </p>
-    <h2 dir="auto"><a id="user-content-contact-me" class="anchor" aria-hidden="true" tabindex="-1" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🔗 Contact Me</h2>
-    <p dir="auto" align="center">
-    <a href="/" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="mailto:ahmedsabrymahmoud225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:AmrSaaayed74@gmail.com" style="max-width: 100%;"></a>   
-    <a href="www.linkedin.com/in/ahmed-sabry-41b0b5268" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="https://api.whatsapp.com/send?phone=01098583817" rel="nofollow"><img src="https://img.shields.io/badge/-Whatsapp-075e54?style=plastic&amp;logo=Whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
-    </p> 
-    </article>
+<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🚀 About Me</h2> 
+<h3 dir="auto"> I'm Ahmed Sabry From Egypt. I'm a Mern Stack Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior Full-Stack and learning increasingly. </h3>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Languages Programming :</h2>
+<p dir="auto" align="center">
+<a  rel="noopener noreferrer nofollow"> 
+<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a rel="nofollow"> 
+<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a ><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
+<a ><img  alt="HTML5" src="https://img.shields.io/badge/-HTML%205-%23E44D27?style=plastic&amp;logo=html5&amp;logoColor=ffffff" style="max-width: 100%;"></a>
+<a ><img src="https://img.shields.io/badge/CSS%203%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white"/></a>
+<a ><img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a ><img src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white"/></a>
+<a ><img src="https://img.shields.io/badge/React.JS-%2361DAFB.svg?style=plastic&amp;logo=React&amp;logoColor=black" style="max-width: 100%;"></a>
+<a  ><img src="https://img.shields.io/badge/Node.Js-%230F9D58.svg?style=plastic&amp;logo=Node.Js&amp;logoColor=white" style="max-width: 100%;"></a>
+<a ><img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=plastic&logo=express&logoColor=white" style="max-width: 100%;"/>
+</a>
+<a > 
+<img src ="https://img.shields.io/badge/SQL%20Server-%2314354C.svg?&style=plastic&logo=microsoft%20sql%20server&logoColor=white">
+</a>
+</p>
+<h2 dir="auto"><a id="user-content-im-currently-learning" class="anchor" aria-hidden="true" tabindex="-1" href="#im-currently-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📌 I’m currently learning </h2>
+<p dir="auto" align="center">
+<a >
+<img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white"/></a>
+<a  >
+<img src="https://img.shields.io/badge/Redux%20-%23593d88.svg?&style=plastic&logo=redux&logoColor=white"/>
+</a>
+<a > 
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white"/>
+</a>
+<a > 
+<img src ="https://img.shields.io/badge/Firebase-%23FFFC00.svg?&style=plastic&logo=firebase&logoColor=white"/>
+</a>
+</p>
+<h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠️ Software & Tools  :</h2>
+<p dir="auto" align="center">
+<a ><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff" style="max-width: 100%;">a>
+<a ><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&amp;logo=Github" style="max-width: 100%;"></a>
+<a ><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width: 100%;"></a>
+<a ><img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&amp;logo=google%20sheets&amp;logoColor=white" style="max-width: 100%;"></a>
+<a ><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
+<a ><img src="https://img.shields.io/badge/Geeksforgeeks-%230F9D58.svg?style=plastic&amp;logo=geeksforgeeks&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" >
+<img src="https://img.shields.io/badge/-Notion-fff?style=plastic&amp;logo=notion&amp;logoColor=000" style="max-width: 100%;">
+</a>
+</p>
+<h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🖥️ Operating Systems  :</h2>
+<p dir="auto" align="center">
+<a ><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a>
+<a >
+<img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</p>
+<h2 dir="auto"><a id="user-content-contact-me" class="anchor" aria-hidden="true" tabindex="-1" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🔗 Contact Me</h2>
+<p dir="auto" align="center">
+<a href="/" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:ahmedsabrymahmoud225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:AmrSaaayed74@gmail.com" style="max-width: 100%;"></a>   
+<a href="www.linkedin.com/in/ahmed-sabry-41b0b5268" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://api.whatsapp.com/send?phone=01098583817" ><img src="https://img.shields.io/badge/-Whatsapp-075e54?style=plastic&amp;logo=Whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+</p> 
+</article>
