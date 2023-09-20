@@ -16,7 +16,7 @@
         <br>
         <br>
         <p dir="auto">
-        <animated-image style="width: 100%;text-align: center;">
+        <animated-image style="width: 380;text-align: center;">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink">
         <img align="right" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" height="280" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
@@ -50,7 +50,7 @@
                 <p dir="auto">💬 Ask me about <strong>javaScript</strong></p>
                 </li>
                 <li>
-                <p dir="auto">📫 How to reach me <strong><a href="mailto:muhmmed.yasserxi@gmail.com">ahmedsabrymahmoud225@gmail.com</a></strong></p>
+                <p dir="auto">📫 <strong><a href="ahmedsabrymahmoud225@gmail.com">ahmedsabrymahmoud225@gmail.com</a></strong></p>
                 </li>
                 <li>
                 <p dir="auto">⚡ Fun fact <strong>I am Funny</strong></p>
