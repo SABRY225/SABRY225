@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text">
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
         <h1 align="center" dir="auto"><a id="user-content-hello---my-name-is-amr-welcome-to-my-github-profile-" class="anchor" aria-hidden="true" tabindex="-1" href="#hello---my-name-is-amr-welcome-to-my-github-profile-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hello! 👋  My Name is Ahmed Sabry</h1>
         <h1 align="center" dir="auto">
         <span>💖</span>
@@ -24,7 +16,7 @@
         <br>
         <br>
         <p dir="auto">
-        <animated-image data-catalyst="" style="float: right; width: 380px;">
+        <animated-image style="width: 100%;text-align: center;">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" data-target="animated-image.originalLink">
         <img align="right" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" height="280" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
@@ -48,8 +40,23 @@
         </span>
         </animated-image>
         </p>
-        <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🚀 About Me</h2> 
-        <h3 dir="auto"> I'm Ahmed Sabry From Egypt. I'm a Mern Stack Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior Full-Stack and learning increasingly. </h3>
+        <h2 dir="auto"><img src="https://camo.githubusercontent.com/b8b6b0264cd18bf9bd7f0d099709c087137c1abd1f6778f5cd393d0e8feb70ef/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d686d647961737365723333266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="mhmdyasser33" data-canonical-src="https://komarev.com/ghpvc/?username=mhmdyasser33&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></h2> 
+        <h3 dir="auto">
+            <ul dir="auto">
+                <li>
+                <p dir="auto">🌱 I’m currently learning <strong>React js</strong></p>
+                </li>
+                <li>
+                <p dir="auto">💬 Ask me about <strong>javaScript</strong></p>
+                </li>
+                <li>
+                <p dir="auto">📫 How to reach me <strong><a href="mailto:muhmmed.yasserxi@gmail.com">ahmedsabrymahmoud225@gmail.com</a></strong></p>
+                </li>
+                <li>
+                <p dir="auto">⚡ Fun fact <strong>I am Funny</strong></p>
+                </li>
+                </ul>
+        </h3>
         <br>
         <br>
         <br>
@@ -150,6 +157,3 @@
         <a href="https://api.whatsapp.com/send?phone=01098583817" ><img src="https://img.shields.io/badge/-Whatsapp-075e54?style=plastic&amp;logo=Whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
         </p> 
 </article>
-
-</body>
-</html>
