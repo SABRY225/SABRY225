@@ -91,14 +91,25 @@
 </a>
 <a > 
 <img src ="https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white"/></a>
-<a ><img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white"/>
+<a >
+    <img src ="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white"/>
 </a>
+<a >
+    <img src ="https://img.shields.io/badge/-Flutter-%230095D5?style=plastic&logo=flutter&logoColor=white"/>
+</a>
+<a >
+    <img src ="https://img.shields.io/badge/-Dart-%230095D5?style=plastic&logo=dart&logoColor=white"/>
+</a>
+
 </p>
 <h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1" href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠️ Software & Tools  :</h2>
 <p dir="auto" align="center">
 <a ><img src="https://img.shields.io/badge/-Git-%23F05032?style=plastic&amp;logo=Git&amp;logoColor=%23ffffff" style="max-width: 100%;">
 <a ><img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&amp;logo=Github" style="max-width: 100%;"></a>
-<a ><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width: 100%;"></a>
+<a ><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&amp;logo=visual-studio-code&amp;logoColor=ffffff" ></a>
+<a >
+    <img src="http://img.shields.io/badge/-Android%20Studio-fff?style=plastic&amp;logo=android-studio&amp;logoColor=000" >
+</a>
 <a ><img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&amp;logo=google%20sheets&amp;logoColor=white" style="max-width: 100%;"></a>
 <a ><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
 <a ><img src="https://img.shields.io/badge/Geeksforgeeks-%230F9D58.svg?style=plastic&amp;logo=geeksforgeeks&amp;logoColor=white" style="max-width: 100%;"></a>
