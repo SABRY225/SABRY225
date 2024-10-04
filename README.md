@@ -283,15 +283,7 @@
                     src="https://img.shields.io/badge/-Whatsapp-075e54?style=plastic&amp;logo=Whatsapp&amp;logoColor=white"
                     style="max-width: 100%;"></a>
         </p>
-        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="SABRY225" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en" alt="SABRY225" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p>
-        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;" alt="SABRY225" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;" style="max-width: 100%;"></a></p>
+        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="SABRY225" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=SABRY225&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="width: 100%;"></a></p>
+        <p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en" alt="SABRY225" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SABRY225&amp;show_icons=true&amp;locale=en" style="width: 100%;"></a></p>
+        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;" alt="SABRY225" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=SABRY225&amp;" style="width: 100%;"></a></p>
 </article>
