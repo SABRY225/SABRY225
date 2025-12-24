@@ -1,4 +1,4 @@
-    <article class="markdown-body entry-content container-lg f5 container" itemprop="text">
+<article class="markdown-body entry-content container-lg f5 container" itemprop="text">
         <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
             alt="Typing SVG"
             data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&amp;weight=600&amp;size=24&amp;pause=1000&amp;random=false&amp;width=550&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB."
@@ -58,9 +58,6 @@
                 </p>
             </a>
         <h1 dir="auto">
-
-
-
             <h2 dir="auto"><a id="user-content-contact-me" class="anchor" aria-hidden="true" tabindex="-1"
                     href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
                         height="16" aria-hidden="true">
@@ -82,4 +79,4 @@
                         src="https://img.shields.io/badge/-Whatsapp-075e54?style=plastic&amp;logo=Whatsapp&amp;logoColor=white"
                         alt="WhatsApp"></a>
             </div>
-    </article>
+</article>
