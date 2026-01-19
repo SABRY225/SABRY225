@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sabry</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
-<p align="left"> <a href="https://ahmedsabry.online/"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed Sabry&theme=onedark" alt="Ahmed Sabry" /></a> </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed Sabry&title=Followers,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Nady++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB." alt="Typing SVG" />
 </h1>
@@ -19,13 +16,6 @@
   <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Nadyy_Resume). -->
   <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Nadyy_Website).
     <br> -->
-
-## My Competitive Programming Profiles
-<!-- ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles -->
-| codeforces |
-|----------|
-|<a href="https://codeforces.com/profile/Ahmed_Nady_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=80%/></a>|
-
 
 ## Connect with me & Social Media
 <!-- ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me & Social Media -->
@@ -73,30 +63,5 @@
 
 
 
-## <br>
 
-<h3 align="left">🔥 My Stats :</h3>
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Ahmed Sabry&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed Sabry&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed Sabry&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-
-<!-- ## 🐍 A Snake Eating My Contributions Graph
-
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <p align="center" dir="auto">
-        <themed-picture data-catalyst-inline="true" data-catalyst="">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed Sabry/Ahmed Sabry/output/github-contribution-grid-snake-dark.svg">
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed Sabry/Ahmed Sabry/output/github-contribution-grid-snake.svg">
-                <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed Sabry/Ahmed Sabry/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-            </picture>
-        </themed-picture>
-    </p>
-</article> -->
 
