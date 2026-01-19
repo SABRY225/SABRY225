@@ -56,12 +56,6 @@
    <!-- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
   -->
 
-| Git | github |
+| Linux | Windows |
 |----------|----------|
 |<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>|<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>|
-
-
-
-
-
-
