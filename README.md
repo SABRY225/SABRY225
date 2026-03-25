@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sabry</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Nady++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Sabry++;I+'m+Software+Engineer+%F0%9F%98%8A.;+I'm+Frontend+Developer+%F0%9F%8E%A8.;+I'm+Backend+Developer+%F0%9F%92%BB." alt="Typing SVG" />
 </h1>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
@@ -13,15 +13,15 @@
 - :computer: I am a competitive programmer at `Codeforces`.
 - :student: I’m currently learning `Computer Science` & `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-  <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Nadyy_Resume). -->
-  <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Nadyy_Website).
+  <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Sabryy_Resume). -->
+  <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Sabry_Website).
     <br> -->
 
 ## Connect with me & Social Media
 <!-- ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me & Social Media -->
 | gmail | github | whatsapp | linkedin | behance | facebook | instagram |
 |----------|----------|----------|----------|----------|----------|----------|
-|<a href="mailto:Nadyahmd88@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>|<a href="https://github.com/Ahmed Sabry"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>|<a href="https://wa.me/0201023536355"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>|<a href="https://www.linkedin.com/in/ahmed-nady-742a18240/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>|<a href="https://www.behance.net/ahmednady18/"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>|<a href="https://www.facebook.com/profile.php?id=100009827228094"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>|<a href="https://www.instagram.com/ahmed_nady__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>|
+|<a href="mailto:Sabryahmd88@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>|<a href="https://github.com/Ahmed Sabry"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>|<a href="https://wa.me/0201023536355"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>|<a href="https://www.linkedin.com/in/ahmed-Sabry-742a18240/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>|<a href="https://www.behance.net/ahmedSabry18/"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>|<a href="https://www.facebook.com/profile.php?id=100009827228094"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>|<a href="https://www.instagram.com/ahmed_Sabry__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>|
 
 ## My Skills
 <!-- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills -->
